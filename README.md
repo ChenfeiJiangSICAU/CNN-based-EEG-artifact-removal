@@ -6,6 +6,8 @@
 
 Rather than pursuing visually aggressive waveform modification, this project focuses on stable and interpretable suppression of ocular and muscle artifacts while preserving the original EEG morphology as much as possible. It is intended as a reproducible baseline for EEG denoising when true paired `noisy-clean` targets are unavailable.
 
+**Note**:Dataset can be provided, researchers in need please contact me via email.
+
 ## Project Objective
 
 - Build a complete EEG denoising pipeline from BrainVision raw data loading to model inference
