@@ -1,0 +1,104 @@
+{
+  "device": "cuda",
+  "best_val_loss": 0.7865371474852929,
+  "train_time_sec": 129.88464903831482,
+  "best_display_channel": "F8",
+  "best_display_segment": [
+    74056,
+    75336
+  ],
+  "best_display_score": 134.89288330078125,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.2374634685424657,
+      "val_loss": 0.9974109851397001
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.9831147148058965,
+      "val_loss": 0.9410780026362493
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.9226931597177799,
+      "val_loss": 0.9155426758986253
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.8981661991431162,
+      "val_loss": 0.8871480914262625
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.8783139242575719,
+      "val_loss": 0.8756718589709356
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.8715630941666089,
+      "val_loss": 0.8776937035413889
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.8580274134874344,
+      "val_loss": 0.8718982705703149
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.856663146844277,
+      "val_loss": 0.8409760961165795
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.8395468432169694,
+      "val_loss": 0.8581588589228116
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.8334178901635684,
+      "val_loss": 0.8421334074093745
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.8214734070576154,
+      "val_loss": 0.82194584608078
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.810911203806217,
+      "val_loss": 0.824890306362739
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.8227608903096273,
+      "val_loss": 0.8223762558056757
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.8033117732176414,
+      "val_loss": 0.7865371474852929
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.8132516478116696,
+      "val_loss": 0.8068233590859634
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.8013395701463406,
+      "val_loss": 0.7901186943054199
+    }
+  ],
+  "metadata": {
+    "target_fs": 256,
+    "window_len": 512,
+    "stride": 256,
+    "clean_epoch_count": 4514,
+    "raw_window_count": 12000,
+    "train_count": 13212,
+    "val_count": 3302,
+    "eog_count": 3400,
+    "emg_count": 5598
+  }
+}
